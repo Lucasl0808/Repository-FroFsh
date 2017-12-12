@@ -27,3 +27,4 @@ ax[0].imshow(img)
 fig.canvas.draw()
 # Show the figure on the screen
 fig.show()
+type (img)
